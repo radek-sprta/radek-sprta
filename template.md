@@ -5,7 +5,7 @@ I use [Gitlab](https://gitlab.com/radek-sprta) to host most of my projects, but 
 {{#if repositories}}
 ## Top Repositories
 {{#each repositories}}
-- [{{this.name}}]({{this.url}}) - {{#if this.description}}{{this.description}}{{/if}} - {{this.stars}} ⭐ in {{#if this.language}}{{this.language}}{{else}}—{{/if}}
+- [{{this.name}}]({{this.url}}) - {{#if this.description}}{{this.description}}{{/if}} - {{this.stars}} ⭐{{#if this.language}} in {{this.language}}{{/if}}
 {{/each}}
 {{/if}}
 
