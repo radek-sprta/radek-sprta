@@ -10,11 +10,11 @@ I use [Gitlab](https://gitlab.com/radek-sprta) to host most of my projects, but 
 - [powerfish](https://github.com/radek-sprta/powerfish) - Mirror of Powerfish repository: - 2 ⭐ in Shell
 
 ## Latest Releases
-- [Mariner v1.6.0](https://gitlab.com/radek-sprta/mariner/-/releases/v1.6.0) 
-- [cdup v0.6.0](https://gitlab.com/radek-sprta/cdup/-/releases/v0.6.0) 
-- [git-snip v0.2.0](https://gitlab.com/radek-sprta/git-snip/-/releases/v0.2.0) 
-- [git-snip v0.1.0](https://gitlab.com/radek-sprta/git-snip/-/releases/v0.1.0) 
-- [cdup v0.5.0](https://gitlab.com/radek-sprta/cdup/-/releases/v0.5.0) 
+- [introduction v0.1.0](https://gitlab.com/radek-sprta/introduction/-/releases/v0.1.0) — 2026-03-29T05:18:36.628Z
+- [Mariner v1.6.0](https://gitlab.com/radek-sprta/mariner/-/releases/v1.6.0) — 2026-03-26T08:22:32.549Z
+- [cdup v0.6.0](https://gitlab.com/radek-sprta/cdup/-/releases/v0.6.0) — 2026-03-12T08:15:05.182Z
+- [git-snip v0.2.0](https://gitlab.com/radek-sprta/git-snip/-/releases/v0.2.0) — 2025-08-08T22:00:00Z
+- [git-snip v0.1.0](https://gitlab.com/radek-sprta/git-snip/-/releases/v0.1.0) — 2023-12-29T23:00:00Z
 
 ## Recent Posts
 - [Copy and Paste From Tmux in Wayland](https://radeksprta.eu/posts/copy-and-paste-from-tmux-in-wayland/) — 2025-10-13T12:09:03Z

@@ -12,7 +12,7 @@ I use [Gitlab](https://gitlab.com/radek-sprta) to host most of my projects, but 
 {{#if releases}}
 ## Latest Releases
 {{#each releases}}
-- [{{this.repository}} {{this.name}}]({{this.url}}) 
+- [{{this.repository}} {{this.name}}]({{this.url}}){{#if this.published}} — {{this.published}}{{/if}}
 {{/each}}
 {{/if}}
 
