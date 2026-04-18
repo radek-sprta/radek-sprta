@@ -1,0 +1,13 @@
+update-readme:
+  image: rust:latest
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+  script:
+    - cargo install introduction
+    - introduction compose --template template.md
+    - git config user.name "GitLab CI"
+    - git config user.email "ci@gitlab.com"
+    - git remote set-url origin "https://oauth2:${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
+    - git add README.md
+    - |-
+      git diff --cached --quiet || (git commit -m "chore: update README.md" && git push origin HEAD:main)
