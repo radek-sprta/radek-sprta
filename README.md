@@ -3,18 +3,18 @@ Hey! I am Radek, a DevOps engineer and open-source enthuasiast ✨
 I use [Gitlab](https://gitlab.com/radek-sprta) to host most of my projects, but you can also find me on [GitHub](https://github.com/radek-sprta).
 
 ## Top Repositories
-- [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) - Actively maintained open-source game remakes. - 1326 ⭐
+- [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) - Actively maintained open-source game remakes. - 1338 ⭐
 - [Mariner](https://gitlab.com/radek-sprta/mariner) - Navigate torrents in CLI. - 8 ⭐ in Python
 - [ansible-role-sanoid](https://github.com/radek-sprta/ansible-role-sanoid) - Install and configure Sanoid for automatic ZFS snapshots. - 6 ⭐ in Jinja
 - [ansible-personal](https://gitlab.com/radek-sprta/ansible-personal) - Ansible playbook to setup my personal machines.  - 3 ⭐ in Shell
 - [powerfish](https://github.com/radek-sprta/powerfish) - Mirror of Powerfish repository: - 2 ⭐ in Shell
 
 ## Latest Releases
+- [git-snip v0.3.0](https://gitlab.com/radek-sprta/git-snip/-/releases/v0.3.0) — 2026-04-21T03:35:52.339Z
 - [cdup v0.6.1](https://gitlab.com/radek-sprta/cdup/-/releases/v0.6.1) — 2026-04-09T13:50:10.380Z
 - [introduction v0.1.0](https://gitlab.com/radek-sprta/introduction/-/releases/v0.1.0) — 2026-03-29T05:18:36.628Z
 - [Mariner v1.6.0](https://gitlab.com/radek-sprta/mariner/-/releases/v1.6.0) — 2026-03-26T08:22:32.549Z
 - [cdup v0.6.0](https://gitlab.com/radek-sprta/cdup/-/releases/v0.6.0) — 2026-03-12T08:15:05.182Z
-- [git-snip v0.2.0](https://gitlab.com/radek-sprta/git-snip/-/releases/v0.2.0) — 2025-08-08T22:00:00Z
 
 ## Recent Posts
 - [Copy and Paste From Tmux in Wayland](https://radeksprta.eu/posts/copy-and-paste-from-tmux-in-wayland/) — 2025-10-13T12:09:03Z
