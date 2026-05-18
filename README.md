@@ -3,7 +3,7 @@ Hey! I am Radek, a DevOps engineer and open-source enthuasiast ✨
 I use [Gitlab](https://gitlab.com/radek-sprta) to host most of my projects, but you can also find me on [GitHub](https://github.com/radek-sprta).
 
 ## Top Repositories
-- [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) - Actively maintained open-source game remakes. - 1350 ⭐
+- [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) - Actively maintained open-source game remakes. - 1356 ⭐
 - [Mariner](https://gitlab.com/radek-sprta/mariner) - Navigate torrents in CLI. - 8 ⭐ in Python
 - [ansible-role-sanoid](https://github.com/radek-sprta/ansible-role-sanoid) - Install and configure Sanoid for automatic ZFS snapshots. - 6 ⭐ in Jinja
 - [ansible-personal](https://gitlab.com/radek-sprta/ansible-personal) - Ansible playbook to setup my personal machines.  - 3 ⭐ in Shell
