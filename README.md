@@ -18,10 +18,10 @@ I use [Gitlab](https://gitlab.com/radek-sprta) to host most of my projects, but 
 
 ## Contributed To
 - [slgobinath/safeeyes](https://github.com/slgobinath/safeeyes) - 17 contributions in Python
-- [Everpure-Ansible/FlashArray-Collection](https://github.com/Everpure-Ansible/FlashArray-Collection) - 2 contributions in Python
 - [sethdusek/define](https://github.com/sethdusek/define) - 2 contributions in Python
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - 2 contributions in Rust
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - 2 contributions in Python
+- [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - 2 contributions in Python
+- [Everpure-Ansible/FlashArray-Collection](https://github.com/Everpure-Ansible/FlashArray-Collection) - 2 contributions in Python
 
 ## Recent Posts
 - [Copy and Paste From Tmux in Wayland](https://radeksprta.eu/posts/copy-and-paste-from-tmux-in-wayland/) — October 13, 2025
