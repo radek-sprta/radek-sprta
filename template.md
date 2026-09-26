@@ -12,13 +12,20 @@ I use [Gitlab](https://gitlab.com/radek-sprta) to host most of my projects, but 
 {{#if releases}}
 ## Latest Releases
 {{#each releases}}
-- [{{this.repository}} {{this.name}}]({{this.url}}){{#if this.published}} — {{this.published}}{{/if}}
+- [{{this.repository.name}} {{this.name}}]({{this.url}}) -{{#if this.repository.description}} {{this.repository.description}}{{/if}}{{#if this.published}} on {{this.published}}{{/if}}
 {{/each}}
 {{/if}}
 
-{{#if rss_items}}
+{{#if contributions}}
+## Contributed To
+{{#each contributions}}
+- [{{this.name}}]({{this.url}}) - {{this.contributions}} contributions{{#if this.language}} in {{this.language}}{{/if}}
+{{/each}}
+{{/if}}
+
+{{#if feed_items}}
 ## Recent Posts
-{{#each rss_items}}
+{{#each feed_items}}
 - [{{this.title}}]({{this.url}}){{#if this.published}} — {{this.published}}{{/if}}
 {{/each}}
 
